@@ -351,14 +351,12 @@ align-items: center;
     justify-items: center;
     padding-right: 20px;
     
-    
 }
 .icons{
   position: relative;
     top: 130px;
     right: 90px;
 }
-
 .p-img{
     width: 100%;
     justify-items: center;
