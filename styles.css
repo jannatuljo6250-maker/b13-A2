@@ -361,9 +361,7 @@ align-items: center;
     top: 130px;
     right: 90px;
 }
-.p-icons>p{
-    /* justify-items: center; */
-}
+
 .p-img{
     width: 100%;
     justify-items: center;
