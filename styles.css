@@ -353,8 +353,8 @@ align-items: center;
 .p-icons{
     justify-items: center;
     padding-right: 20px;
-    /* justify-content: center; */
-    /* align-items: center; */
+    
+    
 }
 .icons{
   position: relative;
