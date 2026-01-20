@@ -122,7 +122,7 @@ font-size: 60px;
 .about-heading{
     font-weight: 700;
     justify-content: center;
-    /* padding-bottom: 25px; */
+    
 }
 .para-section{
     background-color: transparent;
@@ -208,7 +208,6 @@ justify-content: center;
      padding-bottom: 40px;
 }
 .song-class{
-    /* width: 70%; */
     border-radius: 20px ;
     background-color: #250D44;
     align-items: center;
